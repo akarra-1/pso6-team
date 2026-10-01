@@ -1,0 +1,3 @@
+Team members: akarra-1 and ___________
+Favorite programming language: Java
+Team motto: Pairing up, forks, and Pull Requests
