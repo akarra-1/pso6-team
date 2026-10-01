@@ -1,3 +1,3 @@
-Team members: akarra-1 and ___________
+Team members: akarra-1 and jazzmcgowan86
 Favorite programming language: Java
-Team motto: Pairing up, forks, and Pull Requests
+Team motto: To practice the basics of github and terminal
